@@ -17,3 +17,6 @@ This is a full-fledged e-commerce platform built with React.js, Spring Boot, and
 - **Backend**: Spring Boot
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
+
+ 📦 Related Repository
+🔗 Frontend Repo: https://github.com/Sivajothi015/Frontend-ecommerce
